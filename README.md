@@ -2,4 +2,6 @@
 
 This is a course design of Advanced Programming Language.
 
-Click here for demo video.
+Click [here](http://v.youku.com/v_show/id_XMjc1OTc3MjgzMg==.html) for demo video.
+
+
